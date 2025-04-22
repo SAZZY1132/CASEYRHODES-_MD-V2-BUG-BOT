@@ -1,35 +1,35 @@
-//base by DGXeon
+//base by 𝕾𝖆𝖟𝖟𝖞 𝕿𝖗𝖚𝖘𝖙𝖊𝖉 𝖘𝖍𝖔𝖕
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @GlobalTechInfo
-//Telegram: https://t.me/GlobalTechInc
-//GitHub: @GlobalTechInfo
-//WhatsApp: https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@GlobalTechInfo
+//YouTube: @Soon
+//Telegram: Soon
+//GitHub: @Soon
+//WhatsApp: https://whatsapp.com/channel/0029VbAEGYrEwEk1N0Ob6f1F
+//want more free bot scripts? subscribe to my youtube channel: Soon
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "254112192119"
-global.ownername = "CASEYRHODES 🌟"
-global.ytname = "YT: CASEYRHODES_TECH"
-global.socialm = "GitHub: CASEYRHODES_TECHinfo"
-global.location = "Nairobi,kenya"
+global.ownernomer = "2349070810971"
+global.ownername = "𝕾𝖆𝖟𝖟𝖞 𝕿𝖗𝖚𝖘𝖙𝖊𝖉 𝖘𝖍𝖔𝖕 🌹"
+global.ytname = "YT: 𝕾𝖆𝖟𝖟𝖞 𝕿𝖗𝖚𝖘𝖙𝖊𝖉 𝖘𝖍𝖔𝖕 🌹"
+global.socialm = "GitHub: 𝕾𝖆𝖟𝖟𝖞 𝕿𝖗𝖚𝖘𝖙𝖊𝖉 𝖘𝖍𝖔𝖕 🌹"
+global.location = "Nigeria,Anambra"
 
-global.ownernumber = '254112192119'  //creator number
-global.ownername = 'CASEYRHODES🍀' //owner name
-global.botname = 'CASEYRHODES_MD✨' //name of the bot
+global.ownernumber = '2349070810971'  //creator number
+global.ownername = '𝕾𝖆𝖟𝖟𝖞 𝕿𝖗𝖚𝖘𝖙𝖊𝖉 𝖘𝖍𝖔𝖕 🌹' //owner name
+global.botname = '𝕾𝖆𝖟𝖟𝖞 𝕿𝖗𝖚𝖘𝖙𝖊𝖉 𝖘𝖍𝖔𝖕 🌹' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'CASEYRHODES Tech\n\nContact: +254112192119'
+global.author = '𝕾𝖆𝖟𝖟𝖞 𝕿𝖗𝖚𝖘𝖙𝖊𝖉 𝖘𝖍𝖔𝖕 🌹 Tech\n\nContact: +254112192119'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "CASEYRHODES Bot"
+global.wm = "𝕾𝖆𝖟𝖟𝖞 𝕿𝖗𝖚𝖘𝖙𝖊𝖉 𝖘𝖍𝖔𝖕 🌹"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E'
+global.link = 'https://whatsapp.com/channel/0029VbAEGYrEwEk1N0Ob6f1F'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
